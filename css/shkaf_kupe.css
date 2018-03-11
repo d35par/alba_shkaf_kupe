@@ -32,21 +32,27 @@
 .otlichiy5_main {
   width: 100%;
   display: flex;
+  margin-top: 2em;
 }
 .bggrey {
-  width: 50%;
-  background-color: #f3f3f3;
-  position: absolute;
+  /* width: 50%; */
+  /* background-color: #f3f3f3; */
+  /* position: absolute; */
 }
+
 .approach,
 competitors {
   font-family: "Roboto Slab", serif;
   font-size: 36px;
   color: #249266;
 }
+.approach {
+  background: url(../img/bg_konk1.png) bottom/cover no-repeat;
+}
 .competitors {
   font-size: 36px;
   color: #ce3131;
+  background: url(../img/bg_konk2.png) bottom no-repeat;
 }
 .competitors_approach_list > ul > li {
   font-family: "Open Sans", sans-serif;
