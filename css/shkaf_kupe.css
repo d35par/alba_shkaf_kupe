@@ -57,3 +57,7 @@ competitors {
 .competitors_approach_list > ul > li > img {
   padding-right: 1em;
 }
+
+.details > .details-bg {
+  background: url(../img/shkaf_hand.png) center/500px no-repeat;
+}
