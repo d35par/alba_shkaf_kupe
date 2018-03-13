@@ -42,7 +42,7 @@
 
 .approach,
 competitors {
-  font-family: "Roboto Slab", serif;
+  font-family: RobotoSlab;
   font-size: 36px;
   color: #249266;
 }
@@ -55,7 +55,7 @@ competitors {
   background: url(../img/bg_konk2.png) bottom no-repeat;
 }
 .competitors_approach_list > ul > li {
-  font-family: "Open Sans", sans-serif;
+  font-family: OpenSans;
   color: #000;
   font-size: 16px;
   margin: 1em 0;
